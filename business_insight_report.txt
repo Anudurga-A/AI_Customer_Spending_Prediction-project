@@ -1,0 +1,25 @@
+
+AI-BASED CUSTOMER SPENDING PREDICTION
+-------------------------------------
+
+Total Customers: 500
+
+Low Spending Customers:
+167
+
+Medium Spending Customers:
+166
+
+High Spending Customers:
+167
+
+Decision Tree Accuracy: 58.00%
+
+Random Forest Accuracy: 58.00%
+
+Best Model: Random Forest
+
+Conclusion:
+Machine Learning helps businesses understand
+customer spending behaviour and identify
+different customer spending categories.
